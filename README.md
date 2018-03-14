@@ -1,6 +1,8 @@
 # react-component-vs-purecomponent
 A simple demonstration to differentiate the difference between React.Component and React.PureComponent.
 
+Sample demonstration: https://codepen.io/jojo-tutor/pen/vdMJjQ?editors=1111
+
 To run app, follow the steps below:
 
 1. git clone https://github.com/jojo-tutor/react-component-vs-purecomponent.git
