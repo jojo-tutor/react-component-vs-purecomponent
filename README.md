@@ -1,21 +1,31 @@
-# react-component-vs-purecomponent 
+# React: Component vs. PureComponent
 ![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)
 ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
+## About
 A simple demonstration to differentiate the difference between React.Component and React.PureComponent.
 
- CodePen:
+## Demonstration
+CodePen:
  > https://codepen.io/jojo-tutor/pen/vdMJjQ?editors=1111
- 
- Herokuapp:
+
+Herokuapp:
  > https://component-vs-purecomponent.herokuapp.com/
 
-
+## Installing
 To run app, follow the steps below:
 
-1. git clone https://github.com/jojo-tutor/react-component-vs-purecomponent.git
-2. cd react-component-vs-purecomponent
-3. npm i
-4. npm start
+```
+git clone https://github.com/jojo-tutor/react-component-vs-purecomponent.git
+cd react-component-vs-purecomponent
+npm i
+npm start
+```
+
+## Authors
+**Jojo E. Tutor**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 Enjoy :)
