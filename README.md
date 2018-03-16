@@ -1,4 +1,6 @@
-# react-component-vs-purecomponent
+# react-component-vs-purecomponent 
+![Travis](https://img.shields.io/travis/USER/REPO.svg)
+
 A simple demonstration to differentiate the difference between React.Component and React.PureComponent.
 
  CodePen:
