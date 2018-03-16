@@ -3,7 +3,7 @@
 ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ## About
-A simple demonstration to differentiate the difference between React.Component and React.PureComponent.
+A simple demonstration to differentiate React.Component and React.PureComponent.
 
 ## Demonstration
 CodePen:
